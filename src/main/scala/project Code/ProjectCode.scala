@@ -1,4 +1,4 @@
-package Labs
+package projectCode
 
 import scala.io.Source
 import java.time.LocalDate
